@@ -23,7 +23,7 @@ def predict_wine_quality(data):
 
 # Streamlit UI for the user to input wine data
 def main():
-    st.title("Wine Quality Prediction")
+    st.title("🍷 Wine Quality Prediction App")
 
     # Input fields for the user to enter wine data
     st.header("Enter the wine characteristics:")
